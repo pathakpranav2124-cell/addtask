@@ -18,6 +18,19 @@ A production-ready REST API with JWT authentication, role-based access control, 
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](./screenshot-login.png)
+
+### 🗂 Admin Dashboard
+![Admin Dashboard](./screenshot-dashboard.png)
+
+### ➕ Create Task Modal
+![Create Task](./screenshot-create-task.png)
+
+---
+
 ## 🛠 Tech Stack
 
 | Layer        | Technology                        |
@@ -232,8 +245,6 @@ npm test
 ---
 
 ## 📬 Contact
-
-
 
 Built by **[Your Name]**  
 [your.email@example.com](mailto:your.email@example.com) · [GitHub](https://github.com/your-username)
